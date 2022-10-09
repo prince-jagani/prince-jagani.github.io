@@ -226,11 +226,12 @@ h1, h2, h3, h4, h5, h6, figure {
   -ms-border-radius: 50%;
   border-radius: 50%;
   transition: 500ms;
+  border: 3px solid #000000;
 }
 #fh5co-header .display-tc .profile-thumb:hover,
 .fh5co-cover .display-tc .profile-thumb:hover {
-  border: 3px solid #000000;
   transition: 500ms;
+  border: 0px;
 }
 
 #fh5co-header .display-tc .fh5co-social-icons li a,
